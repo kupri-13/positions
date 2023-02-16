@@ -1,5 +1,5 @@
 body{
-    height: 2000px;
+    height: 5000px;
 }
 
 .header{
@@ -112,4 +112,69 @@ li a{
     font-size: 10px;
 }
 
+.sec2{
+    width: 1550px;
+    margin: 0 auto;
+}
 
+.happen{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+
+.div1{
+    height: 1000px;
+    width: 800px; 
+    display: inline-block;
+}
+
+.music{
+    width: 780px;
+    height: 460px;
+    border-radius: 2%;
+    display: block;
+    margin-left: 70px;
+}
+
+.cat{
+    width: 780px;
+    height: 460px;
+    border-radius: 1%;
+    display: block;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.div2{
+    vertical-align: top;
+    display: inline-block;
+    height: 1000px;
+    width: 500px; 
+    margin-left: 40px;
+
+}
+
+.cafe{
+    width: 390px;
+    height: 230px;
+    border-radius: 2%;
+    margin-left: 70px;
+    margin-bottom: 60px;
+}
+
+.girl{
+    width: 390px;
+    height: 230px;
+    border-radius: 2%;
+    margin-left: 70px;
+    margin-bottom: 60px;
+}
+
+.dog{
+    width: 390px;
+    height: 230px;
+    border-radius: 2%;
+    margin-left: 70px;
+}
